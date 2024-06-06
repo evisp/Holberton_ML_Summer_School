@@ -9,7 +9,7 @@ What You'll Learn:
 
 ## Python Essentials for ML 🐍
 What You'll Learn:
-- **Essential Python Skills**: Brush up on the Python programming skills you'll need for ML.
+- **[Essential Python Skills](https://github.com/evisp/Holberton_ML_Summer_School/blob/main/1_Intro_to_Machine_Learning/Python%20Crash%20Course.ipynb)**: Brush up on the Python programming skills you'll need for ML.
 - **Libraries**: Get to know (for now, just an introduction) key Python libraries like `pandas`, `numpy`, `matplotlib` and `scikit-learn`.
 
 ## Tools to Use 🛠️
@@ -27,4 +27,4 @@ What You'll Install:
 ## Hands-on Activity 👨‍💻
 What You'll Do:
 - **Implement ML Algorithms**: We'll be working with logistic regression and decision tree algorithms.
-- **Titanic Dataset**: Apply these algorithms to the Titanic dataset to predict survival outcomes.
+- **Titanic Dataset**: Apply these algorithms to the Titanic dataset to [predict survival outcomes](https://github.com/evisp/Holberton_ML_Summer_School/blob/main/1_Intro_to_Machine_Learning/Practice%20Machine%20Learning%20Fundamentals%20with%20the%20Titanic%20Dataset.ipynb).
