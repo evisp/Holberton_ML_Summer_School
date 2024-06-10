@@ -4,8 +4,8 @@
 
 Our mission is to dive headfirst into the exciting world of AI and machine learning. Here’s what we aim to achieve:
 
-🧠 Introduce participants to the essential principles and methodologies of machine learning.
-🛠️ Offer hands-on learning experiences through interactive workshops and projects.
+- 🧠 Introduce participants to the essential principles and methodologies of machine learning.
+- 🛠️ Offer hands-on learning experiences through interactive workshops and projects.
 
 ## Curricula and Timeline 📅
 The fun begins on `Jun 11, 2024`, and we'll keep the excitement going (at least) until `Jul 9, 2024`.
