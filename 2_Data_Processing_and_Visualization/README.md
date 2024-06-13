@@ -1,4 +1,4 @@
-📊 # Week 2: Data Processing, Analysis, and Visualization 🚀
+## 📊 Week 2: Data Processing, Analysis, and Visualization 🚀
 
 This chapter focuses on essential skills of data processing, analysis, and visualization.
 
