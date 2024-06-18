@@ -32,8 +32,3 @@ This chapter focuses on essential skills of data processing, analysis, and visua
 - Conduct Exploratory Data Analysis (EDA) to visualize feature distributions and correlations.
 - Use Random Forest and Gradient Boosting for price prediction.
 - Visualize key variables influencing housing prices.
-
-#### Netflix Viewing Activity:
-- Summarize and analyze Netflix viewing activity data.
-- Extract fun insights and patterns from viewing habits.
-- Visualize trends and behaviors in a clear, engaging manner.
