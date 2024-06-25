@@ -32,7 +32,6 @@ Let's dive deeper into supervised learning:
 
 - 🎓 Understanding Supervised Learning
 - 📊 Evaluation Metrics
-- 🤖 Regression and Classification Algorithms
 - 🔍 Supervised Learning Projects
 
 ### [Week 4](https://github.com/evisp/Holberton_ML_Summer_School/blob/main/4_Neural_Networks/README.md): Neural Networks and Applications 🧠
